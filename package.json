@@ -1,0 +1,31 @@
+{
+  "name": "fullstack-part4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "mongoose": "^5.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samp3/fullstack-part4.git"
+  },
+  "author": "Samuli Ahlqvist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samp3/fullstack-part4/issues"
+  },
+  "homepage": "https://github.com/samp3/fullstack-part4#readme"
+}
